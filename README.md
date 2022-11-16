@@ -16,6 +16,6 @@ To run a matrix through the VQE algorithm, download the "vqe_test_template" file
 
 ### QRAO
 
-To run a matrix through the QRAO algorithm, follow the installation steps found [here](https://github.com/qiskit-community/prototype-qrao/blob/main/INSTALL.md), but use THIS repository. Some of the parameters and utils have been changed and reflected in this code. Once your jupyter notebook is running, select the "QApplicationsQRAO" file, and run the entire notebook.
+To run a matrix through the QRAO algorithm, follow the installation steps found [here](https://github.com/qiskit-community/prototype-qrao/blob/main/INSTALL.md), but use **THIS** repository. Some of the parameters and utils have been changed and reflected in this code. Once your jupyter notebook is running, select the "QApplicationsQRAO" file, and run the entire notebook.
 
 **We do not own the entire QRAO code. Much of it was sampled from an IBM Prototype.**
