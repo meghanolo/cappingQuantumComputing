@@ -10,10 +10,10 @@ The first algorithm to run is Brute Force, using the [Brute_QAOA](https://github
 
 Following Brute Force, you can run the QAOA algorithm using the same file. Just run the final code cell in the file.
 
-**Note: ** Brute Force MUST be run before QAOA to ensure all parameters are update. Additionally, QAOA will take time, so wait patiently.
+**Note:** Brute Force MUST be run before QAOA to ensure all parameters are update. Additionally, QAOA will take time, so wait patiently.
 
 ### VQE
 
-Setting up VQE is similar to Brute Force. Clone this repository, then create an account on IBM Quantum. Launch the Lab after signing in, and uplaod the [VQE.ipynb](https://github.com/meghanolo/cappingQuantumComputing/blob/main/VQE.ipynb) file to the platform. In the first cell, edit *n* to reflect the number of nodes in your graph, *x* to reflect the weight of the malicious traffic, and insert your *elist*. Then, run the code block.
+Setting up VQE is similar to Brute Force. Clone this repository, then create an account on IBM Quantum. Launch the Lab after signing in, and uplaod the [VQE.ipynb](https://github.com/meghanolo/cappingQuantumComputing/blob/main/VQE.ipynb) file to the platform. In the first cell, edit *n* to reflect the number of nodes in your graph, *x* to reflect the weight of the malicious traffic, and insert your *elist*. Then, run all of the code blocks. The first output will be a similar brute force approach and is NOT the results of VQE. The desired results will be returned in the 
 
 ### QRAO
